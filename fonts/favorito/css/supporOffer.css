@@ -1,0 +1,173 @@
+@font-face {
+font-family: Open-Sans;
+src: url("../fonts/open-sans.ttf");
+}
+
+@font-face {
+font-family: Open-Sans-Bold;
+src: url("../fonts/open-sans-bold.ttf");
+}
+
+@font-face {
+font-family: Open-Sans-Italic;
+src: url("../fonts/open-sans-italic.ttf");
+}
+
+@font-face {
+font-family: Open-Sans-Light;
+src: url("../fonts/open-sans-light.ttf");
+}
+
+body {
+  min-height: 2000px;
+  font-family: Open-Sans,Arial,sans-serif;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+   
+
+a {
+    color: #c5c5c5;
+    text-decoration: none;
+}
+
+li{
+	padding: 2px;
+	border: 2px;
+	color: #fff;
+	list-style: none;
+	position: relative;
+	margin-top: 10px;
+
+}
+
+
+.contenedor{
+    background-color: #fff;
+    width: 100%;
+    float: left;
+    border: 20px;
+    padding: 0px 30px 30px 30px;
+
+}
+p{
+	text-align: justify;
+    color: #72727d;
+    font-size: 16px;
+    line-height: 25px;
+}
+h1{
+	font-family: Open-Sans,Arial,sans-serif;
+}
+.contenedor2{
+    background-color: #42424D;
+    width: 100%;
+    float: right;
+    border: 20px;
+    padding: 40px;
+
+}
+.fuente{
+	color: #fff;
+	font-family: Open-Sans,Arial,sans-serif;
+    font-size: 20px;
+}
+.contenedor3{
+    background-color: #23232D;
+    width: 100%;
+    float: right;
+    border: 20px;
+    padding: 40px;
+
+}
+.pp{
+	color: #007feb;
+    font-family: Open-Sans,Arial,sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+
+}
+
+.op{
+	padding: 2px;
+	border: 2px;
+	color: #fff;
+	list-style: none;
+	position: relative;
+	color: blue;
+}
+.op:hover{
+	color: blue;
+}
+
+.navbar-default {
+    background-color: #000;
+    border-color: #000;
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+
+.navbar-default {
+    background-color: #23232D;
+    border-color: #23232D;
+    color: white;
+}
+
+.btn-registro{
+	background-color: #0A5DBB;
+	padding: 8px;
+	border:1px;
+	border-color: #0A5DBB;
+	/*border-radius: 4px;*/
+	margin: 15px 10px 10px 10px;
+	color: #fff;
+	font-weight: bold;
+
+}
+.btn-conectar{
+	background-color: #12121E;
+	padding: 8px;
+	border:1px;
+	border-color: #12121E;
+	/*border-radius: 4px;*/
+	margin: 15px 10px 10px 10px;
+	color: #fff;
+	font-weight: bold;
+
+}
+
+.nav-link: {
+	font-family: Open-Sans,Arial,sans-serif;
+}
+
+a:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.cuadro{
+	padding: 100px 100px 10px 100px;
+	/*border: 10px black solid;*/
+	margin-top: -20px;
+	margin-left: -70px;
+	margin-right:  -70px;
+	background-color: black;
+	color: white;text-align: center
+}
+
+.filas{
+	background-color: white;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 10px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid rgb(232, 232, 236);
+}

@@ -1,0 +1,6 @@
+Solamente se utilizarán 4 ficheros css en todo el sitio.
+
+login.css>> LOGIN / REGISTER
+principal.css (a renombrar pos style.css) >> Todas las páginas del sitio Freezer
+player.css >> Para estilos del reproductor
+support.css (Actualmete SupporOffer) >> Información legal y ofertas de Freezer

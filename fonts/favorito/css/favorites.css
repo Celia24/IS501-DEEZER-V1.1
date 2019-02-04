@@ -1,0 +1,101 @@
+.banner{
+    color: white;
+    text-align-last: center;
+    padding: 70px;
+    margin-right: 50px;
+    margin-left: -50px;
+    margin-bottom: -100px;
+}
+.botones{
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    border-color: gray;
+}
+
+.btn-azul,
+.btn-guardar{
+    color: #fff;
+    background-color: #4389c1;
+    border-color: #2e6da4;
+}
+
+
+.reproductor{
+    color: black;
+    background-color: white;
+    padding: 5px 30px 5px 30px;
+    margin: 0px;
+}
+
+.boton{
+    padding: 5px 30px 5px 30px;
+}
+
+.control {
+    display: block;
+    width: 20%;
+    height: 30px;
+    padding: 6px 12px;
+    font-size: 10px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+
+
+
+
+.contenedorFormulario{
+    padding-left: 160px;
+    float: right;
+    width: 850px;
+    position: relative;
+}
+
+
+.banner h2{
+        font-size: 18px;
+        letter-spacing: .25px;
+        color: #72727d;
+}
+
+.btns{
+    font-weight: bold;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #f8f8f9;
+    border: solid 1px #d1d1d7;
+    color: #23232d;
+}
+
+label{
+    color: #72727d;
+    padding-left: 20px;
+}
+select{
+    color: #72727d;
+    width: 30%;
+    height: 20%;
+    border-radius: 10%;
+}
