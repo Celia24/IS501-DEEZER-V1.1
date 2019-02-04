@@ -1,0 +1,197 @@
+.siguenos
+{
+	background:#42424D;
+	width: 1349px;
+	height:140px;
+	margin-top: 150px;
+}
+
+.sig
+{
+	
+	font-family:"Open Sans",Arial,sans-serif;
+    font-weight: 300; 
+	color:#72727D;
+	font-size: 20px;
+	margin-left: 100px;
+	margin-top: 60px;
+	float: left;
+}
+
+.social
+    {
+    	float: left;
+        margin-left: 55px;
+        margin-top: -1px;
+    }
+
+    .soc
+    {
+    	float: left;
+    	margin-top: 45px;
+    	margin-left: 55px;
+    }
+
+     i
+    {
+    	color:#888891;
+    }
+
+.social .soc .fa-facebook:hover
+{
+	color:#fff;
+}
+
+    .social .soc .fa-google-plus:hover
+    {
+    	color: #fff;
+    }
+
+    .social .soc .fa-twitter:hover
+    {
+    	color: #fff;
+    }
+
+    .social .soc .fa-youtube:hover
+    {
+    	color: #fff;
+    }
+
+    .social .soc .fa-instagram:hover
+    {
+    	color: #fff;
+    }
+
+    .social .soc .fa-linkedin:hover
+    {
+    	color: #fff;
+    }
+
+    #parf1
+    {
+        font-size: 39px;
+        color: #888891;
+    }
+
+    .social .soc #parf1:hover
+    {
+        color: #fff;
+    }
+
+  .otrasopciones
+{
+	background: #23232D;
+	width: 1349px;
+	height:525px;
+	float: left;
+}
+
+.dezer
+{
+	float: left;
+    margin-top: 55px;
+    margin-left: 120px;
+}
+
+.extras
+{
+	float: left;
+    margin-top: 55px;
+    margin-left: 120px;
+}
+
+.pa
+{
+    font-family:"Open Sans",Arial,sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+	margin-top: 5px;
+	margin-bottom:40px;
+}
+
+.der
+{
+	font-family: "Open Sans"; 
+	font-style: normal; 
+	color:#92929d;
+}
+.azul1
+{
+	color:#1E5CE0;
+}
+
+.dispositivo
+{
+	float: left;
+    margin-top: 55px;
+    margin-left: 180px;
+}
+
+.legal
+{
+	float: left;
+    margin-top: 55px;
+    margin-left: 180px;
+}
+
+.separador
+    {
+      float: left; 
+      border-top: 1px #32323D solid;
+      width: 1136px;
+      height: 1px;
+      margin-top: 60px;
+      margin-left: 118px;
+    }
+
+    dd
+{
+    font-family:"Open Sans",Arial,sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+
+dl dd a:hover
+{
+    color: #fff;
+}
+
+    .info
+{
+	float: left;
+	margin-top: 2px;
+}
+
+.per
+{
+	color: #656555;
+	font-family: "Open Sans"; 
+	font-style: normal; 
+	font-size: 12px;
+	margin-left:650px;
+	margin-top: 15px;
+}
+
+#lenguajes
+{
+
+    background-color: #42424d;
+    color: #c2c2ca;
+    cursor: pointer;
+    font-size: 14px;
+	float: left;
+	margin-top: -20px;
+	margin-left: 120px;
+    height: 30px;
+    padding: 5px;
+    width: 7%;
+    border: 0px none;
+    border-radius: 3px;
+    display: block;
+    box-shadow: none;
+    background-image: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}

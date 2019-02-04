@@ -1,0 +1,260 @@
+#link1
+{
+	text-decoration:none;
+	color: #72727d;
+	padding-bottom:12px;
+}
+
+#link2
+{
+	text-decoration:none;
+	color: #72727d;
+	padding-bottom:12px;
+}
+
+#link3
+{
+	text-decoration:none;
+	color: #72727d;
+	padding-bottom:12px;
+}
+
+#link4
+{
+	text-decoration:none;
+	color: #72727d;
+	padding-bottom:12px;
+}
+
+#link5
+{
+	text-decoration:none;
+	color: #72727d;
+	padding-bottom:12px;
+}
+
+#link6
+{
+	text-decoration:none;
+	color: #72727d;
+	padding-bottom:12px;
+}
+
+body
+{
+	overflow-x: hidden;
+	background: purple;
+}
+
+.contenedor
+{
+	width: 1129px;
+	height: auto;
+	background: #ffffff;
+}
+
+#primeraimg
+{
+	background:url(../temp/imgp.jpg);
+    background-repeat:no-repeat; 
+    background-size: cover;
+    -webkit-filter: brightness(50%);
+    filter: brightness(55%);
+	width: 1129px;
+	height: 250px;
+}
+
+#artista
+{
+	width: 1129px;
+	height: 110px;
+	background:#FFFFFF;
+}
+
+#img_artista
+{
+	background-image: url(../temp/artist1.jpg);
+	background-repeat:no-repeat;
+	border-radius: 100%;
+	border-top: 2.1px solid gray;
+	border-right:  2.1px solid gray;
+	border-left: 2.1px solid gray;
+	width: 156px;
+	height: 160px; 
+	float: left;
+	position: relative;
+	margin-left: 344px;
+	margin-top: -75px;
+}
+
+#info_artista
+{
+	float: left;
+	position: relative;
+	margin-top: -96px;
+	margin-left: 45px;
+}
+
+#nombre_artista
+{
+	color: #FFFFFF;
+
+}
+
+#c_fans
+{
+	float: left;
+	margin-left: -5px;
+	margin-top: -5px;
+	font-size: 15px;
+	color:#dedee3;
+	font-style: italic;
+	font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 400;
+}
+
+#funciones
+{
+	float: left;
+	margin-left: 40px;
+	margin-top: 25px;
+}
+
+#mixx
+{
+	background: #007FEB;
+    font-size: 14px;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 800;
+    background-color: #007feb;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding: 5px 12px 5px 12px;
+    margin-right: 10px;
+    white-space: nowrap;
+}
+
+#mixx1
+{
+	margin-left: 5px;
+	background-color: #f8f8f9;
+    border: solid 1px #d1d1d7;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 800;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
+    padding: 7px 12px;
+    position: relative;
+    text-align: center;
+    margin-right: 10px;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+#mixx2
+{
+	margin-left: 5px;
+	background-color: #f8f8f9;
+    border: solid 1px #d1d1d7;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0;
+    padding: 6px 12px;
+    position: block;
+    text-align: center;
+    vertical-align: middle;
+    outline:none;
+}
+
+#social
+{
+	float: right;
+	margin-right:50px;
+	margin-top: 35px;
+}
+
+#separador
+{
+	border-left:1px solid #c2c2ca; 
+	float: right; 
+    height: 20px;
+    margin-left: 18px;
+    margin-top: -3px;
+}
+
+.fa-facebook
+{
+	color: #c2c2ca;
+	position: relative;
+	margin-right: 5px;
+}
+
+#social .fa-facebook:hover
+{
+	color:#0b66cd;
+	cursor: pointer;
+}
+
+.fa-twitter
+{
+	color: #c2c2ca;
+	position: relative;
+	margin-left: 5px;
+}
+
+#social .fa-twitter:hover
+{
+	color: #1391ed;
+	cursor: pointer;
+}
+#navbar
+{
+	width: 1129px;
+	height: 50px;
+	background: #ffffff;
+	border-bottom: 2px solid #c2c2ca;
+}
+
+#nav
+{
+	width: 1129px;
+	height: 50px;
+    float: left;
+	margin-left:-5px;
+}
+
+td
+{
+	background-color: transparent;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+table td a:hover
+{
+	color: black;
+	border-bottom: 3px solid #007FEB;
+	cursor: pointer; 
+}
+
+iframe
+{
+	width: 1129px;
+	height: 1604.67px;
+}
+
+#link1
+{
+	border-bottom: 3px solid #007FEB;
+	color: black;
+}

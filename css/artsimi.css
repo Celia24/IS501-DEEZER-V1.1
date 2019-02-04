@@ -1,0 +1,97 @@
+#contenedor
+{
+	width: 1129px;
+	background:#F8F8F9;
+}
+
+#meu
+{
+	float: left;
+	margin-left: 35px;
+	margin-top: 15px;
+}
+
+#artista
+{
+	background-image: url(../temp/cover.jpg);
+	background-repeat:no-repeat;
+    background-size: cover;
+	float: left;
+	position: relative;
+	background-size: cover;
+	width: 234px;
+	height: 234px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 15px;
+	margin-bottom: 45px;
+	border-radius: 100%;
+}
+
+#options
+{
+	float: left;
+	position: relative;
+	width: 120px;
+	height: 120px;
+	margin-left: 53px;
+	margin-top: 174px;
+	display: none;
+}
+
+.glyphicon-play
+{
+	color: white;
+	float: left;
+	margin-left: 15px;
+	margin-top: 12px;
+}
+
+ .glyphicon-heart 
+ {
+    color: white;
+	float: left;
+	margin-left: 14px;
+	margin-top: 12px;
+ }
+
+#option
+{
+	width: 43px;
+	height: 43px;
+	float: left;
+	border-radius: 100%;
+	background: black;
+	margin-left: 15px;
+	opacity: 1;
+}
+
+.visible
+{
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+#banda
+{
+	color: #32323d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    float:left;
+    margin-top: 250px;
+    margin-left: -178px;
+    position: relative;
+}
+
+#fans
+{
+	color: #72727d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    float: left;
+    margin-top: 270px;
+    margin-left: -148px;
+    position: relative;
+}

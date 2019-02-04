@@ -1,0 +1,115 @@
+body
+{
+	height: 2900px;
+	width: 1349px;
+	background-color: #f5f5f5;
+}
+#zona1
+{
+	background:url(../img/company-background-desktop.jpg);
+    background-repeat:no-repeat; 
+    background-size: 1349px 700px;
+    color:#ffffff;
+    width: 1349px; 
+    height: 740px; 
+    margin-top: -40px;
+}
+
+#zona2
+{
+	width: 1349px;
+	height: 350px;
+	background:#F9F8F7;
+	margin-top: -40px;
+}
+
+
+#tex
+{
+	color:#848484; 
+	float: left; 
+	font-family: 'Open Sans',Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.glyphicon-ok
+{
+	color:#007FEB;
+	margin-right: 25px;
+}
+
+#zona3
+{
+	width: 1349px;
+	height: 350px;
+	margin-top: 0px;
+	background: url(../img/mozaico.jpg);
+}
+
+#tex1
+{
+	font-size: 30px;
+    color: #191922;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 300;
+
+}
+
+#tex2
+{
+	color: #424242; 
+	float: right;
+}
+
+#tex3
+{
+	font-family: "Open Sans",Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #72727d;
+    font-size: 16px;
+    margin-top: 25px;
+
+}
+
+#zona4
+{
+	background-color:#e0e0e0 ;
+	height: 307px;
+	width: 1349px;
+
+}
+
+#zona5
+{
+	height: 430px;
+	width: 1349px; 
+	margin-left: 660px;
+}
+
+#zona6
+{
+	height: 700px;
+	width: 1349px;
+	background-color: #fafafa;
+}
+
+#zona7{
+	height: 550px;
+	width: 1349px;
+	background-color: #ffffff;
+
+}
+#img-col1-company{
+	width: auto;
+   	height: 180px; 
+}
+#img-col2-company{
+	width: auto;
+	height: 180px;
+}
+#img-col3-company{
+	width: auto;
+   	height: 180px; 
+}

@@ -1,0 +1,65 @@
+body
+{
+    margin: 0; 
+    padding: 0;
+}
+
+#contenedor
+{
+	width: 1129px;
+    height:565px;
+    background: #F8F8F9;
+    position: relative;
+}
+
+#biografia
+{
+    width: 1038px;
+    height:517px;
+    background: #fff;
+    float: left;
+    margin-top: 25px;
+    margin-left:45px;
+    box-shadow: 1px #d1d1d7;
+    position: relative;
+}
+
+#parrafo
+{
+	color: #32323d;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    float: left;
+    margin-left: 35px;
+    margin-top: 35px;
+}
+
+h2
+{
+	color: #32323d;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 400;
+    float: left;
+    margin-left: -63px;
+    margin-top: 65px;
+}
+
+#parrafo1
+{
+	font-size: 14px;
+    line-height: 24px;
+    color: #72727d;
+    font-family: "Lucida Grande",Arial,sans-serif;
+    text-align:justify;
+    float: left;
+}
+
+#informacion
+{
+   width: 978px;
+   height:384px;
+   float: left;
+   margin-left: 30px;
+   margin-top:-25px;
+}

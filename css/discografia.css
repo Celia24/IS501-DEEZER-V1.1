@@ -1,0 +1,783 @@
+a:link
+{
+	text-decoration: none;
+	color: #32323d;
+	cursor: pointer;
+	font-weight: 600;
+	font-size: 18px;
+	font-family: "Open Sans",Arial,sans-serif;
+}
+#contenedor
+{
+	width: 1129px;
+	height: 1704.67px;
+	background: #F8F8F9;
+	position: relative;
+}
+#contenedor2
+{
+	width: 1086px;
+	height: 1700px;
+	background: #F8F8F9;
+	position: relative;
+}
+
+#link1
+{
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+	position: relative;
+}
+
+#link2
+{
+	float: right;
+	margin-top: 22px;
+	margin-right:205px;
+	position: relative;
+}
+
+div a:hover
+{
+	color: #089FEF;
+	cursor: pointer;
+}
+
+#top_canciones
+{
+	width: 718px;
+	height: 275px;
+	background: #ffffff;
+	float: left;
+	margin-top: 70px;
+	margin-left: -138px;
+	position: relative;
+}
+
+#playlist
+{
+	width: 280px;
+	height: 274px;
+	background: #F8F8F9;
+	float: right;
+	margin-top: 25px;
+	margin-right: 10px;
+	position: relative;
+}
+
+#lanzamiento
+{
+	height: 455px;
+	width: 718px;
+	background: #ffffff;
+	float: left;
+	margin-top: 70px;
+	margin-left: -182px;
+	position: relative;
+}
+
+#link3
+{
+	float: left;
+	margin-top: 25px;
+	margin-left: 10px;
+	position: relative;
+}
+
+#similares
+{
+	width: 276px;
+	height: 453px;
+	background: #F8F8F9;
+	float: right;
+	margin-top: 70px;
+	margin-right: 10px;
+	position: relative;
+}
+
+#link4
+{
+	float: right;
+	margin-top: 30px;
+	margin-right:-173px;
+	position: relative;
+}
+
+
+#pa1
+{
+	float: left;
+	margin-left: -720px;
+	margin-top: 565px;
+	font-weight: 600;
+	font-size: 18px;
+	font-family: "Open Sans",Arial,sans-serif;
+	position: relative;
+}
+
+#separador
+{
+	float: left;
+	margin-left: 94px;
+	margin-top: 57px;
+	width: 768px;
+	border: 1px solid #E8E8EC;
+}
+
+#btnmas
+{
+	float: left;
+	height: 24px;
+	width: 686px;
+	position: relative;
+	margin-left: 15px;
+	margin-top: 2px;
+	background:#efeff2;
+	border-top-right-radius: 4px;
+	border-top-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+
+#mas
+{
+	text-decoration: none;
+	color: #72727d;
+    font-weight: 400;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-size: 12px;
+    position:relative;
+    text-align:center;
+}
+#albumes
+{
+	height: 320px;
+	width: 1072px;
+	float: left;
+	position: relative;
+	margin-top: 20px;
+}
+
+#musica
+{
+	width: 686px;
+	height: 220px;
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+
+#cancion
+{
+	width: 686px;
+	height: 50px;
+	float: left;
+	border-bottom: 1px solid #efeff2;
+}
+
+#cancion1
+{
+	width: 686px;
+	height: 50px;
+	float: left;
+}
+
+#num
+{
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+	font-family: "Open Sans",Arial,sans-serif;
+	font-weight: 400;
+	color: #c2c2ca;
+	width: 10px;
+	height: 10px;
+}
+
+#nomb
+{
+	font-family: "Open Sans",Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    float: left;
+	margin-left: 35px;
+	margin-top: 16px;
+}
+
+.glyphicon-option-horizontal
+{
+	color:#99999e;
+	float: right;
+	margin-right:25px;
+	margin-top:20px;
+	cursor:pointer;
+	float: right;
+	margin-top: 6px;
+	margin-right:7px;
+}
+
+.hova
+{
+	background:#efeff2;
+	border-top-right-radius: 4px;
+	border-top-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	cursor: pointer;
+}
+
+.per
+{
+	display: none;
+}
+
+.ub
+{
+	display:none;
+	height: 28px;
+	width: 28px;
+	border-radius: 100%;
+	position:relative;
+	float: right;
+	margin-top: 15px;
+	margin-right: 25px;
+}
+
+.play
+{
+	background-image: url(../temp/playlist.gif);
+	background-repeat:no-repeat;
+    background-size: cover;
+	width: 52px;
+	height: 52px;
+	float: left;
+	position: relative;
+	margin-top: 5px;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+
+#npl
+{
+	color: #32323d;
+	font-family: Open Sans,Arial,sans-serif;
+	font-weight: 400;
+	cursor: pointer;
+	font-size: 14px;
+	float:left;
+	margin-top: 12px;
+	margin-left: 15px;
+}
+
+#cantidad_canciones
+{
+	color: #72727d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    float: left;
+    margin-top: -1px;
+    margin-left: 15px;
+}
+
+.glyphicon-heart-empty
+{
+	color: #7D7D84;
+	float: right;
+	margin-top: -10px;
+	margin-right:10px;
+	cursor: pointer;
+}
+
+.artist
+{
+	background-image: url(../temp/minicover.gif);
+	background-repeat:no-repeat;
+    background-size: cover;
+	width: 56px;
+	height: 56px;
+	float: left;
+	position: relative;
+	margin-top: 5px;
+	border-radius: 100%;
+}
+
+#nartist
+{
+	color: #32323d;
+	font-family: Open Sans,Arial,sans-serif;
+	font-weight: 400;
+	cursor: pointer;
+	font-size: 14px;
+	float:left;
+	margin-top: 12px;
+	margin-left: 15px;
+}
+
+#nfans
+{
+	color: #72727d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    float: left;
+    margin-top: 32px;
+    margin-left: -50px;
+}
+
+.glp
+{
+	color: #7D7D84;
+	float: right;
+	margin-top: 30px;
+	margin-right:-1px;
+	cursor: pointer;
+}
+
+.contentsimi
+{
+	float: left;
+	height: 60px;
+	width: 276px;
+	margin-top: 6px;
+}
+
+#btnmas_artist
+{
+	float: left;
+	height: 26px;
+	width: 282px;
+	position: relative;
+	margin-left: -1px;
+	margin-top: 20px;
+	background:#efeff2;
+	border-top-right-radius: 4px;
+	border-top-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+
+#ultimolanzamiento
+{
+	background:url(../temp/albumcover.jpg);
+    background-repeat:no-repeat; 
+    background-size: cover;
+	height: 200px;
+	width: 200px;
+    float: left;
+	position: relative;
+	margin-top: 15px;
+	margin-left:15px;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+
+#album
+{
+	color: #32323d;
+    cursor: pointer;
+    outline: 0 none;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    float: left;
+    margin-top: 18px;
+    margin-left: 15px;
+}
+
+#salida
+{
+	color: #c2c2ca;
+    font-family: Open Sans,Arial,sans-serif;
+    font-size: 14px;
+    float: left;
+    margin-top: 45px;
+    margin-left: -132px;
+}
+
+#musicaalbum
+{
+	width: 468px;
+	height: 52px;
+	float: left;
+	margin-left: 15px;
+	margin-top: 10px;
+	margin-bottom: -12px;
+}
+
+#listac
+{
+	height: 366px;
+	width: 468px;
+	
+	float: left;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+
+#cancione
+{
+	width: 458px;
+	height: 50px;
+	float: left;
+	border-bottom: 1px solid #efeff2;
+}
+
+#cancione1
+{
+	width: 458px;
+	height: 50px;
+	float: left;
+}
+
+#btnficha
+{
+	float: right;
+	height: 26px;
+	width: 468px;
+	position: relative;
+	margin-right: 15px;
+	margin-top: 1px;
+	background:#efeff2;
+	border-top-right-radius: 4px;
+	border-top-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+
+#contenedor
+{
+	width: 1129px;
+	background:#F8F8F9;
+}
+
+#meu
+{
+	float: left;
+	margin-left: 35px;
+	margin-top: 15px;
+}
+
+#artista
+{
+	background-image: url(../temp/album.jpg);
+	background-repeat:no-repeat;
+    background-size: cover;
+	float: left;
+	position: relative;
+	background-size: cover;
+	width: 234px;
+	height: 234px;
+	margin-left: -20px;
+	margin-right: 45px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+
+.opt
+{
+	float: left;
+	position: relative;
+	width: 132px;
+	height: 36px;
+	margin-left: 13px;
+	margin-top: 179px;
+	visibility: hidden;
+	
+}
+
+.glyphicon-play
+{
+	color: white;
+	float: left;
+	margin-left: 15px;
+	margin-top: 12px;
+}
+
+#option
+{
+	width: 43px;
+	height: 43px;
+	float: left;
+	border-radius: 100%;
+	background: black;
+	margin-left: 15px;
+	opacity: 1;
+}
+
+.visible
+{
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+
+#nombre_album
+{
+	color: #32323d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    float:left;
+    margin-top: 250px;
+    margin-left: -280px;
+}
+
+#nombre_artista
+{
+	color: #72727d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    float: left;
+    margin-top: 270px;
+    margin-left: -280px;
+}
+
+#fecha_publicacion
+{
+	color: #72727d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size:10px;
+    float: left;
+    margin-top: 290px;
+    margin-left: -280px;
+}
+
+#single
+{
+	float: left;
+	margin-left: -1050px;
+	margin-top: 382px;
+	font-weight: 600;
+	font-size: 18px;
+	font-family: "Open Sans",Arial,sans-serif;
+	position: relative;
+}
+
+#gl
+{
+	position: relative;
+	float: left;
+	margin-top: 6px;
+	margin-left: 6.5px;
+}
+
+.cont
+{
+	width: 28px;
+	height: 28px;
+	border-radius: 100%;
+	position: relative;
+	float: left;
+	margin-top: 12px;
+	margin-left: 20px;
+}
+
+.nobcancion
+{
+	width: 200px;
+	height: 20px;
+	position: relative;
+	float: left;
+	margin-top: -1px;
+	margin-left: 5px;
+}
+
+#gl1
+{
+	position: relative;
+	float: left;
+	margin-top: 6px;
+	margin-left: 6.5px;
+}
+
+.cont1
+{
+	width: 28px;
+	height: 28px;
+	border-radius: 100%;
+	position: relative;
+	float: left;
+	margin-top: 12px;
+	margin-left: 20px;
+}
+
+
+#btnplay
+{
+	width: 28px;
+	height: 28px;
+	display: inline;
+	float: left;
+	border-radius: 100%;
+	background-color: black;
+	margin-top: 12px;
+	margin-left: -75px;
+	position: relative;
+	visibility: hidden;
+	
+}
+
+.fa-play
+{
+	color: white;
+	float: left;
+	font-size: 11px;
+	margin-left: 11px;
+	margin-top: 7px;
+}
+
+#btnplay1
+{
+	width: 28px;
+	height: 28px;
+	display: inline;
+	float: left;
+	border-radius: 100%;
+	background-color: black;
+	margin-top: 12px;
+	margin-left: -20px;
+	position: relative;
+	visibility: hidden;
+	
+}
+
+.ub1
+{
+	display:none;
+	height: 28px;
+	width: 28px;
+	border-radius: 100%;
+	position:relative;
+	float: right;
+	margin-top: 13px;
+	margin-right: 25px;
+}
+
+.hov
+{
+	background-color: white;
+	cursor: pointer;
+}
+
+.opcion
+{
+	float: left;
+	position: relative;
+	margin-top: -15px;
+	margin-right: 10px;
+	visibility: hidden;
+}
+
+.opcion1
+{
+	float: left;
+	position: relative;
+	margin-top: -15px;
+	margin-left: 40px;
+	visibility: hidden;
+}
+
+#reproducir
+{
+	width: 32px;
+	height: 32px;
+	border-radius: 100%;
+	background-color: black;
+	float: left;
+	position: relative;
+}
+
+#favorito
+{
+	width: 32px;
+	height: 32px;
+	border-radius: 100%;
+	background-color: black;
+	float: left;
+	position: relative;
+	margin-left: 5px;
+	visibility: hidden;
+}
+
+#menudes
+{
+	width: 32px;
+	height: 32px;
+	border-radius: 100%;
+	background-color: black;
+	float: left;
+	position: relative;
+	margin-left: 5px;
+	visibility: hidden;
+}
+
+.opciones
+{
+	width: 132px;
+	height: 36px;
+	float: left;
+	position: relative;
+	margin-top: 160px;
+	margin-left: 15px;
+}
+
+.fa-heart
+{
+	color: #ffffff;
+	float: left;
+	margin-top: 8px;
+	margin-left: 9.5px;
+}
+
+.fa-ellipsis-h
+{
+	color: #ffffff;
+	float: left;
+	margin-left: 10.5px;
+	margin-top: 9.5px;
+}
+
+.rplay
+{
+	width: 32px;
+	height: 32px;
+	border-radius: 100%;
+	background-color: black;
+	float: left;
+	position: relative;
+}
+
+.ffav
+{
+	width: 32px;
+	height: 32px;
+	border-radius: 100%;
+	background-color: black;
+	float: left;
+	position: relative;
+	margin-left: 5px;
+}
+
+.moptions
+{
+	width: 32px;
+	height: 32px;
+	border-radius: 100%;
+	background-color: black;
+	float: left;
+	position: relative;
+	margin-left: 5px;
+}
+

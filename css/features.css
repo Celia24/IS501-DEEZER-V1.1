@@ -1,0 +1,161 @@
+.image {
+
+position: relative;
+
+width: 100%; /* for IE 6 */
+
+
+}
+
+h2 {
+font-family: "Open Sans"; 
+font-style: normal; 
+position: absolute;
+
+top: 50px;
+text-align: center;
+
+left: 0;
+
+width: 100%;
+}
+h4 {
+margin-left:80px;
+margin-right:80px;
+position: absolute;
+top: 100px;
+text-align: center;
+left: 0;
+width: 80%;
+}
+.col-md-6{
+	font-family: "Open Sans";
+
+}
+.siguenos
+{
+	background: #42424D;
+	width: 1349px;
+	height:140px;
+	margin-top: 150px;
+}
+.otrasopciones
+{
+	background: #23232D;
+	width: 1349px;
+	height:466px;
+}
+.cabecera
+{
+	background: #23232D;
+	width: 1349px;
+	height:70px;
+	color: gray;
+}
+.principal{
+
+}
+.image1 {
+
+position: relative;
+
+width: 100%; /* for IE 6 */
+color: white;
+}
+.body
+{
+	color: red;
+}
+.siguenos{
+	font-size: 40px;
+	color: gray;
+}
+
+
+.dezer
+{
+	float: left;
+    margin-top: 55px;
+    margin-left: 120px;
+}
+
+.extras
+{
+	float: left;
+    margin-top: 55px;
+    margin-left: 120px;
+}
+
+.dispositivo
+{
+	float: left;
+    margin-top: 55px;
+    margin-left: 120px;
+}
+
+.legal
+{
+	float: left;
+    margin-top: 55px;
+    margin-left: 120px;
+}
+
+.info
+{
+	float: left;
+	margin-top: 60px;
+}
+
+.per
+{
+	color: #656555;
+	font-family: "Open Sans"; 
+	font-style: normal; 
+	font-size: 12px;
+	margin-left:650px;
+	margin-top: 15px;
+}
+
+.lenguajes
+{
+
+    background-color: #42424d;
+    color: #c2c2ca;
+    cursor: pointer;
+    font-size: 14px;
+    left: 0;
+	float: left;
+	margin-top: -20px;
+	margin-left: 159px;
+    height: 30px;
+    padding: 5px;
+    width: 7%;
+    border: 0px none;
+    border-radius: 3px;
+    display: block;
+}
+
+hr
+{
+	color:#656555;
+	background-color:#656555;
+	margin-left: 150px;
+	border: 0px;
+}
+.sig
+{
+	font-family: "Open Sans"; 
+	font-style: normal; 
+	color:#72727D;
+	font-size: 20px;
+	margin-left: 100px;
+	margin-top: 60px;
+	float: left;
+}
+
+#btngroup2
+{
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 250px;
+}

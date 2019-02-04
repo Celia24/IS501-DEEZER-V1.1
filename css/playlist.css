@@ -1,0 +1,125 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+
+.Contenedor
+{
+	float: left;
+	margin-top: 25px;
+	margin-left: 15px;
+	position: relative;
+}
+
+.playlist
+{
+	background-image: url(../temp/playli.jpg);
+	background-repeat:no-repeat;
+    background-size: cover;
+	width: 234px;
+	height: 234px;
+	float: left;
+	position: relative;
+	background-color: red;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+
+#nombre_playlist
+{
+	color: #32323d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    float:left;
+    margin-top: 240px;
+    margin-left: -230px;
+}
+
+#fans_canciones
+{
+	color: #72727d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    float: left;
+    margin-top: 260px;
+    margin-left: -230px;
+}
+
+.fa-heart
+{
+	color: #ffffff;
+	float: left;
+	margin-top: 8px;
+	margin-left: 9.5px;
+}
+
+.fa-ellipsis-h
+{
+	color: #ffffff;
+	float: left;
+	margin-left: 10.5px;
+	margin-top: 9.5px;
+}
+
+.rplay
+{
+	width: 32px;
+	height: 32px;
+	border-radius: 100%;
+	background-color: black;
+	float: left;
+	position: relative;
+}
+
+.ffav
+{
+	width: 32px;
+	height: 32px;
+	border-radius: 100%;
+	background-color: black;
+	float: left;
+	position: relative;
+	margin-left: 5px;
+}
+
+.moptions
+{
+	width: 32px;
+	height: 32px;
+	border-radius: 100%;
+	background-color: black;
+	float: left;
+	position: relative;
+	margin-left: 5px;
+}
+
+.fa-play
+{
+	color: white;
+	float: left;
+	font-size: 11px;
+	margin-left: 11px;
+	margin-top: 7px;
+}
+
+.opt
+{
+	float: left;
+	position: relative;
+	width: 132px;
+	height: 36px;
+	margin-left: 13px;
+	margin-top: 179px;
+	display: none;`	
+}
+
+.visible
+{
+	opacity: 0.8;
+	cursor: pointer;
+}

@@ -1,0 +1,204 @@
+input[type="checkbox"] {
+    display:none;
+
+}
+input[type="checkbox"] +  label  span {
+
+    display:inline-block;
+    padding-left: 25px;
+    height:18px;
+    background:url("../img/uncheck.png") no-repeat;
+    background-size: 18px;
+    cursor:pointer;
+}
+input[type="checkbox"]:checked + label   span {
+    background:url("../img/check.png")  no-repeat;
+    background-size:18px; 
+}
+
+ .afuera{
+    padding: 24px;
+    padding-left: 20px;
+    color: #72727d;
+
+}
+
+.dentro{
+  background-color: white;
+  width: 100%;
+}
+
+.music{
+	color: #72727d;
+    margin-bottom: 10px;
+    padding-top: 24px;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: .25px;
+}
+
+.titlee{
+	color: #72727d;
+    margin-bottom: 10px;
+    padding-top: 24px;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: .25px;
+}
+
+.texxt{
+	    color: #72727d;
+    font-family: "Lucida Grande",Arial,sans-serif;
+    font-size: 12px;
+    line-height: 1.33333333;
+}
+
+.enmedio{
+	background-color: #f1f1f1
+}
+
+.tabla{
+	border: 1px solid #f0f0f0;
+    border-collapse: collapse;
+    width: 100%;
+    display: table;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+.cell{
+	background-color: #f8f8f9;
+    border: 1px solid #f0f0f0;
+    padding: 15px;
+    vertical-align: middle;
+    width: 20%;
+}
+
+td, th {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+.social{
+	padding: 0;
+    text-align: center;
+}
+
+.social-plat{
+	    padding: 30px 0;
+    position: relative;
+}
+
+.red{
+	    background-color: #92929d;
+    border: 0;
+    border-radius: 3px;
+    box-sizing: border-box;
+    color: #fff;
+    display: inline-block;
+    font-size: 24px;
+    height: 40px;
+    padding: 8px;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    width: 40px;
+    transition-duration: .15s;
+    transition-property: background-color;
+}
+
+
+
+	.facebook:hover {
+    background-color: #3b5998;
+    fill: white;
+}
+
+.twitter:hover{
+     background-color: #37abde;
+     fill: white;
+}
+
+.simbol:hover{
+    background-color: #da001d;
+    fill: white;
+}
+
+.plus:hover{
+	background-color: #df4a32;
+	fill: white;
+}
+
+.option{
+	    padding: 0;
+    white-space: nowrap;
+}
+
+ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+
+.item{
+	    background-color: #fff;
+    box-sizing: border-box;
+    height: 30px;
+    line-height: 30px;
+    margin: 0;
+    padding: 0 15px;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.center {
+    text-align: center;
+}
+
+.btn {
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    
+    line-height: 16px;
+    margin: 0;
+    padding: 7px 12px;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    transition-duration: .15s;
+    transition-property: background-color,border-color,color,opacity;
+}
+
+.btn:hover{
+	    background-color: #fff;
+}
+
+button {
+    background: 0 0;
+    border: 0;
+    color: currentColor;
+    padding: 0;
+}
+
+.btn-default{
+	    background-color: #f8f8f9;
+    border: solid 1px #d1d1d7;
+    
+}
+
+.label{
+	color: #23232d;
+	    display: inline-block;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 700;
+    vertical-align: top;
+    font-size: 12px;
+}

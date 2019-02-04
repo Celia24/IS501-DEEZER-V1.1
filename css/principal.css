@@ -1,0 +1,604 @@
+
+
+
+
+#boton{
+    background-image: url(../img/bannermaluma.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    height: 193px;
+    width: 252px;
+    padding: 10px;
+}
+
+#flow
+{
+	width: 100%;
+	height: 100%;
+	margin-top: 25px;
+	border-bottom-left-radius:4px;
+	border-bottom-right-radius:4px;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+}
+
+
+#explorar
+{
+	width: 93.7333px;
+	height: 26px;
+	float: left;
+	margin-top: 35px;
+	margin-left: 160px;
+}
+
+#explorartxt
+{
+	color: #32323d;
+	cursor: pointer;
+    position: relative;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#descubre
+{
+	width: 1038px;
+	height: 20px;
+	float: left;
+	margin-top: 65px;
+	margin-left: -92px;
+}
+
+#descubretxt
+{
+	color: #72727d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    position: relative;
+    float: left;
+}
+
+#genero
+{
+	height: 110px;
+	width: 1086px;
+	margin-top: 115px;
+}
+
+.list
+{
+	height: 84px;
+	width: 180px;
+	border-bottom-left-radius:4px;
+	border-bottom-right-radius:4px;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	float: left;
+	margin-right: 12px;
+	margin-left: 24px;
+}
+
+#seleccion
+{
+	width: 1038px;
+	height: 26px;
+	float: left;
+	margin-top: 35px;
+	margin-left: 160px;
+}
+
+#selecciontxt
+{
+	color: #32323d;
+	cursor: pointer;
+    position: relative;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    float: left;
+}
+
+#selec
+{
+	width: 1038px;
+	height: 20px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 160px;
+}
+
+#selectxt
+{
+	color: #72727d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    position: relative;
+    float: left;
+}
+
+#playlist_editores
+{
+	width: 1086px;
+	height: 327px;
+	margin-top: 180px;
+}
+
+.playlt
+{
+	width: 234px;
+	height: 234px;
+	border-bottom-left-radius:4px;
+	border-bottom-right-radius:4px;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	float: left;
+	margin-right: 15px;
+	margin-left: 22px;
+	background-image: url(../temp/disturbed.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+#popular
+{
+	width: 88.25px;
+	height: 26px;
+	float: left;
+	margin-top: -40px;
+	margin-left: 160px;
+}
+
+#populartxt
+{
+	color: #32323d;
+	cursor: pointer;
+    position: relative;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    float: left;
+    margin-top: 45px;
+}
+
+#popul
+{
+	width: 1086px;
+	height: 327px;
+	margin-top: 60px;
+}
+
+.popl
+{
+	width: 234px;
+	height: 234px;
+	border-bottom-left-radius:4px;
+	border-bottom-right-radius:4px;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	float: left;
+	margin-right: 15px;
+	margin-left: 22px;
+	background-image: url(../temp/cover.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+#exitos
+{
+	width: 155.483px;
+	height: 26px;
+	float: left;
+	margin-top: -40px;
+	margin-left: 160px;
+}
+
+#exitostxt
+{
+	color: #32323d;
+	cursor: pointer;
+    position: relative;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    float: left;
+    margin-top: 40px;
+}
+
+#top_pais
+{
+	width: 502px;
+	height: 253px;
+	background-color: #EFE2E9;
+	border-bottom-left-radius:4px;
+	border-bottom-right-radius:4px;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	float: left;
+	margin-left: 150px;
+	margin-top: 55px;
+}
+
+#imgtop
+{
+	background-image: url(../temp/tophn.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	width: 197px;
+	height: 197px;
+	border-bottom-left-radius:4px;
+	border-bottom-right-radius:4px;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 25px;
+
+}
+#iconoplay
+{
+	font-size: 40px;
+
+}
+#playalbum
+{
+	width: 50px;
+	height: 50px;
+	border-bottom-left-radius:64px;
+	border-bottom-right-radius:64px;
+	border-top-left-radius:64px;
+	border-top-right-radius:64px;
+}
+
+#listacanciones
+{
+	width: 502px;
+	height: 173.6px;
+	float: right;
+	margin-right: 155px;
+	margin-top: 65px;
+}
+h5
+{
+	font-size: 45px;
+	color: #92929d;
+	font-weight: 800;
+	font-family: Lucida Grande,Arial,sans-serif;
+	float: center;
+}
+
+h6
+{
+	color: #92929d;
+	font-weight: 400;
+	font-family: Lucida Grande,Arial,sans-serif;
+	float: left;
+}
+
+
+body
+{
+	height: 2098px;
+}
+
+
+.button1 {background-color: #4CAF50;} 
+.subtop
+{
+
+	width: 240px;
+	height: 25px;
+	float: center;
+	margin-left: 0px;
+	font-size: 18px;
+	font-weight: 400;
+	font-family: Lucida Grande,Arial,sans-serif;
+	text-align: right;
+	color: #92929d;
+}
+
+.top
+{
+
+	width: 160px;
+	height: 25px;
+	float: center;
+	margin-top: 150px;
+	margin-left: 80px;
+	font-size: 19px;
+	font-weight: 550;
+	font-family: Lucida Grande,Arial,sans-serif;
+	text-align: right;
+	margin-top: 130px;
+}
+.cancion
+{
+	width: 460px;
+	height: 24px;
+	float: left;
+	margin-top: 1px;
+	margin-bottom: 3px;
+	margin-left: 3px;
+}
+
+.numc
+{
+	color: #c2c2ca;
+    font-size: 11px;
+    font-family: Lucida Grande,Arial,sans-;
+    float: left;
+    margin-top: 2.9px;
+}
+
+.nmbcancion
+{
+	color: #323242;
+    cursor: pointer;
+    float: left;
+    margin-left: 4px;
+    font-weight: 400;
+}
+
+.artir
+{
+	color: #72727d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 2px;
+}
+
+.arti
+{
+	color: #72727d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 2px;
+    cursor: pointer;
+}
+
+#lanzamientos
+{
+	width: 210.1px;
+	height: 26px;
+	float: left;
+	margin-top: 345px;
+	margin-left: -490px;
+}
+
+#lanzamientostxt
+{
+	color: #32323d;
+	cursor: pointer;
+    position: relative;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    float: left;
+    margin-top: 20px;
+}
+
+#lanzamiento
+{
+	width: 1086px;
+	height: 327px;
+	margin-top: 420px;
+}
+
+.lanzamiet
+{
+	width: 234px;
+	height: 234px;
+	border-bottom-left-radius:4px;
+	border-bottom-right-radius:4px;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	float: left;
+	margin-right: 15px;
+	margin-left: 22px;
+	position: relative;
+	background-image: url(../temp/sysow.jpeg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+#metal
+{
+	background-image: url(../temp/metal.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+#Rock
+{
+	background-image: url(../temp/rock.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+#Dance
+{
+	background-image: url(../temp/dance.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+#indie
+{
+	background-image: url(../temp/indie.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+#Momentos
+{
+	background-image: url(../temp/momentos.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+.txt
+{
+	float: left;
+	margin-top: 25px;
+	margin-left: 65px;
+	font-family: Open Sans,Arial,sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.txt2
+{
+	float: left;
+	margin-top: 25px;
+	margin-left: 35px;
+	font-family: Open Sans,Arial,sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.txt1
+{
+	float: left;
+	margin-top: 15px;
+	font-family: Open Sans,Arial,sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.nombre_album
+{
+	color: #32323d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    float:left;
+    margin-top: 240px;
+    margin-left: -248px;
+}
+
+.cantidadfans
+{
+	color: #72727d;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    float: left;
+    margin-top: 260px;
+    margin-left: -248px;
+}
+
+.btnreproducir
+{
+	width: 124px;
+	height: 28px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 140px;
+	background-color: #EFE2E9;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	border: 1px solid black;
+}
+
+.glyphicon-play
+{
+	float: left;
+	margin-top: 4px;
+	margin-left: 15px;
+}
+
+#btn
+{
+	font-family: Open Sans,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    float: left;
+    margin-top: 3.5px;
+    margin-left: 5px;
+}
+
+.option
+{
+	width: 132px;
+	height: 36px;
+	float: left;
+	position: relative;
+	margin-top: 185px;
+	margin-left: 10px;
+	visibility: hidden;
+}
+
+.opt
+{
+	width: 36px;
+	height: 36px;
+	border-radius: 100%;
+	background-color: black;
+	float: left;
+	margin-left: 8px;
+}
+
+.fa-play
+{
+	float: left;
+	margin-top: 10px;
+	margin-left: 12px;
+	color: #ffffff;
+}
+
+.fa-heart
+{
+	float: left;
+	margin-top: 12px;
+	margin-left: 12px;
+	color: #ffffff;
+}
+
+.fa-ellipsis-h
+{
+	float: left;
+	margin-top: 12px;
+	margin-left: 14px;
+	color: #ffffff;
+}
+
+
+.visible
+{
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+.glyphicon-heart
+{
+	font-size: 10px;
+	float: left;
+	margin-left: -65px;
+}
+
+.glyphicon-log-in
+{
+	font-size: 10px;
+	float: left;
+	margin-left: -65px;
+}
+
+.popover
+{
+	max-width: 100% !important;
+	max-height: 100% !important;
+}
