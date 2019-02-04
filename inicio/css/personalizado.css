@@ -1,0 +1,415 @@
+
+/* index.php */
+
+
+.col-lgj-2 {
+   padding-top:15px; 
+   width:220px;
+   float: left;
+   height: 100%;
+   background-color: #23232c;
+
+}
+ 
+.col-lgj-10 {
+	width:1366px;
+	height: 100%; 
+
+}
+
+.svg-icon{
+fill: #c2c2ca;
+}
+
+.boton{
+    color: #fff;
+    font-size: 12px;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 800;
+    background-color: #007feb;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-top: 3px;
+    padding: 6px 45px 6px 45px;
+}
+
+.boton:hover{
+  background-color: #0b66cd;
+}
+
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#buscador{
+	margin-top: 10px;
+  background-color: #d1d1d7;
+  padding: 8px 40px 8px 12px;
+  font-size: 12px;
+  height: 32px;
+  width: 180px;
+  margin-left: 19px;
+  margin-bottom:  10px;
+}
+
+#fimage{
+	margin-left: 49px;
+}
+
+
+
+.linea{
+  background-color: #32323d;
+    height: 1px;
+    margin: 5px 12px;
+}
+   
+.space{
+  padding-bottom: 7px;
+  padding-top: 7px;
+} 
+
+
+.icon2{
+  margin-left: 40px;
+  margin-right: 15px;
+}
+
+
+
+.svg-icon:hover{
+  fill: white;
+}
+
+.nav li a .settings{
+  float: right;
+}
+
+.nav, .nav a{
+  color:#C2C2CA;
+  text-decoration: none;
+}
+
+.nav > .active > a,
+.nav > .active > a:hover,
+.nav> .active > a:focus {
+  border-left:solid 10px #007feb;
+  padding-left: 20px;
+  background-color:#15151e;
+}
+
+.nav > li .si:hover,
+.nav > li .si:focus {
+  background-color: #191922;
+  color: white;
+  font-size: 15px;
+}
+
+.hijo .flecha{
+  float: right;
+  margin-right: 30px;
+  line-height: 32px;
+  color: #c5c5cd;
+}
+
+.nav .hijo li a .flecha:hover{
+  font-size: 10px;
+}
+
+.hijo li:focus,
+.hijo li:hover{
+  background-color: #efeff2;
+  cursor:pointer;
+  font-size: 15px;
+}
+
+.nav {
+  margin-bottom: 20px;
+  margin-left: -11px;
+}
+
+.iconn{
+  margin-left: 190px;
+  margin-top: -27px;
+  position: fixed;
+}
+
+.nav hr{
+  margin: 5px 0 5px 0;
+  margin-left: 10%;
+  width: 80%;
+  border-top: 1px solid #474747;
+}
+
+.nav .hijo hr{
+   border-top: 1.7px solid #e8e8ec;
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+
+.titulo1{
+  margin-top: 20px;
+      color: #32323d;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+.hijo .icono{
+  display:inline;
+  margin-left: 10px;
+  line-height: 40px;
+}
+
+.hijo .icon{
+  background-color: #007feb;
+  border-radius: 32px;
+  color:white; 
+  line-height: 32px;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-top: 4px;
+  text-align: center; 
+  width: 32px;
+}
+
+   
+.nav li .hijo a{
+  height: 40px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  margin-bottom: 3px;
+  text-decoration:none;
+}
+
+.hijo li a{
+  height: 40px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  margin-bottom: 3px;
+  text-decoration:none;
+      color: #32323d;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 400;
+        line-height: 38px;
+}
+
+.nav > li > a {
+    padding-right: 30px;
+    padding-left: 30px;
+    height: 30px;
+    margin-bottom: 7px;
+    padding-top: 5px;
+    cursor: pointer;
+}
+
+#cover{
+  height: 140px;
+  width: 220px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  opacity: 0.2;
+  background-image: url("../img/goku.jpg");
+}
+
+.nombresong{
+  padding-top: 8px;
+  margin-right: 30px;
+  overflow: hidden;
+  white-space:nowrap;
+  text-overflow: ellipsis;
+  font-size: 20px;
+  color: #fff;
+}
+
+
+#nombresong{
+    font-family:"Open Sans", Arial, sans-serif;
+    font-size:18px;
+    font-weight:800;
+    padding-left: 22px;
+    padding-right: 30px;
+    color: #fff;
+    
+    
+}
+
+.icon3{
+  margin-right: 15px;
+}
+
+.nombreartista{
+  font-family:"Open Sans", Arial, sans-serif;
+  padding-left: 22px;
+  margin-right: 30px;
+  overflow: hidden;
+  white-space:nowrap;
+  text-overflow: ellipsis;
+  color: #fff;
+  font-size:14px;
+  }
+
+#nombreartista{
+font-family:"Open Sans", Arial, sans-serif;
+font-size:14px;
+font-weight:normal;
+padding-left: 6px;
+color: #fff;
+
+}
+
+.datoss{
+    color: #72727d;
+    padding-top: 24px;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: .25px;
+}
+
+
+.radios{
+    color: #72727d;
+    font-family: "Lucida Grande",Arial,sans-serif;
+    font-size: 12px;
+    line-height: 1;
+}
+
+.personales{
+    color: #72727d;
+    margin-bottom: 24px;
+    padding-top: 24px;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: .25px;
+}
+
+.col-lgj-2 ul li div{
+  
+  opacity: 0;
+  position: absolute;
+  visibility: hidden;
+  overflow: hidden;
+} 
+
+.col-lgj-2 ul li:hover > div{
+opacity: 1;
+visibility: visible;
+
+  }
+
+  .hijo{
+    width: 368px;
+    height: 701px; 
+    background-color: #fff;
+    position:fixed; 
+    margin-left: 230px; 
+    margin-top: -215px;
+    transition-duration:  0.4s;
+  }
+
+
+.contenido{
+ width: 1146px;
+ height: 100%;
+overflow:hidden;
+}
+
+.final{
+  width: 100%;
+    background: #e0e0e0;
+    border-top: 1px solid #ccc;
+    color: #72727d;
+    font-size: 14px;
+    margin: 0 auto 20px;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    font-family: "Lucida Grande",Arial,sans-serif;
+    line-height: 1.33333333;
+}
+
+.dentro{
+  background-color: white;
+  width: 100%;
+}
+
+ .imagen{
+  margin-top: 20px;
+}
+
+.texto{
+    padding-top: 5px;
+}
+
+.titulo{
+  font-size: 18px;
+    letter-spacing: .25px;
+    
+    color: #72727d; 
+    font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 400;
+}
+
+.suscripcion{
+    margin-left: 200px;
+    background-color: #f8f8f9;
+    border: solid 1px #d1d1d7;
+    color: #23232d;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+    padding: 7px 12px;
+    font-family: "Lucida Grande",Arial,sans-serif;
+}
+
+.mod{
+  font-family: "Open Sans",Arial,sans-serif;
+    font-weight: 700;
+    vertical-align: top;
+    color: #23232d;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    padding: 7px 12px;
+    position: relative;
+    text-align: center;
+    border-radius: 4px;
+    background-color: #f8f8f9;
+    border: solid 1px #d1d1d7;
+    margin-left: 10px;
+}
+
+.letrass{
+    font-size: 12px;
+    color: #72727d;
+    cursor: auto;
+    font-weight: 400;
+    font-family: "Lucida Grande",Arial,sans-serif;
+}
+
+
+.alinear{
+      display: block;
+}
+
+.afuera{
+    padding: 24px;
+    padding-left: 20px;
+    color: #72727d;
+
+}
+
+.extras{
+    text-align: right;
+    font-weight: 700;
+    line-height: 1.33333333;
+    color: #72727d;
+    font-family: "Lucida Grande",Arial,sans-serif;
+    font-size: 12px;
+}
+

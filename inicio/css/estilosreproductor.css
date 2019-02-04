@@ -1,0 +1,186 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+
+body 
+{
+    background-color: #F4F4F4;
+    font-family:'Helvetica';
+}
+
+#player 
+{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 50%; left: 50%;
+    margin-left: -200px;
+    margin-top: -200px;
+}
+
+#player .cover 
+{
+    width: 400px;
+    position: absolute;
+    top: 0;
+    left:0;
+}
+
+#player .container 
+{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+#player .info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 400px;
+    height: 115px;
+    background-color: #1E1E27;
+}
+
+#player .info .cont
+ {
+    text-align: center;
+    padding-top: 25px;
+}
+
+#player .trackinfo
+ {
+    position: absolute;
+    bottom: 135px;
+    color: #FFF;
+}
+
+#player .trackinfo p 
+{
+    text-shadow: 0px 0px 5px #333;
+}
+
+#player .trackinfo #title 
+{
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+#player .trackinfo #artist {
+    padding-left: 25px;
+}
+#track {
+    width: 399px;
+    height: 5px;
+    position: absolute;
+    background-color: #A6A7A9;
+    bottom: 115px;
+    left: 1px;
+    z-index: 10;
+    cursor: pointer;
+}
+#progress {
+    float: left;
+    height: 5px;
+    width: 0%;
+    background: #00CC99;
+    cursor: pointer;
+}
+#handler 
+{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #00CC99;
+    top: 50%;
+    left: 0%;
+    margin-left: -10px;
+    margin-top: -10px;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 5;
+}
+
+.nav 
+{
+    width: 50px;
+    height: 50px;
+    vertical-align: top;
+    background-color: #1E1E27;
+    border: 1px solid #1E1E27;
+    outline: none;
+    margin: 0 7px;
+    cursor: pointer;
+}
+
+.nav1 
+{
+    width: 32px;
+    height: 42px;
+    vertical-align: top;
+    background-color: #1E1E27;
+    border: 1px solid #1E1E27;
+    outline: none;
+    margin: 0 7px;
+    cursor: pointer;
+}
+
+.nav2 
+{
+    width: 50px;
+    height: 50px;
+    vertical-align: top;
+    background-color: #1E1E27;
+    border: 1px solid #1E1E27;
+    outline: none;
+    margin: 0 7px;
+    cursor: pointer;
+    margin-top: 2.8px;
+    margin-left: 11px;
+}
+
+.nav:hover {
+    background-color: #1E1E27;
+}
+
+.nav img {
+    vertical-align: middle;
+}
+
+.nav1 img 
+{
+    vertical-align: middle;
+}
+
+.nav2 img 
+{
+    vertical-align: middle;
+}
+
+.pad 
+{
+    padding-left: 5px;
+    width:32px; 
+    height:42px
+}
+#prev 
+{
+    padding-right: 5px;
+}
+#next
+{
+    padding-left: 4px;
+}
+
+#play
+{
+    margin-top: -15px;
+    width:32px; 
+    height:42px
+}
